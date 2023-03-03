@@ -138,6 +138,7 @@ Los números complejos son útiles para describir señales periódicas variables
 Aprendimos a usar operaciones como suma, resta y división con números complejos para convertir entre forma polar y rectangular. Estas operaciones son útiles para representar valores complejos de diferentes maneras y pueden ser aplicadas en diversas situaciones, como en el análisis de circuitos eléctricos y el procesamiento de señales..
 
 7. BIBLIOGRAFÍA
+
 Floyd, TL (2007). Principios de Circuitos Eléctricos. México: Pearson Educación. 
 
 https://drive.google.com/file/d/1cGAWCJ4-yhAe1LyAXvmOeUhEmQVLy-zv/view
