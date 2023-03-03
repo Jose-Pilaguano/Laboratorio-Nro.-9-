@@ -40,15 +40,15 @@ EXPLICACIÓN DEL PROCEDIMIENTO
 
 ![image](https://user-images.githubusercontent.com/116677175/222781358-e4dd04d1-06c1-4e42-b502-b703ab92148a.png)
 
-![image](https://user-images.githubusercontent.com/116677175/222785234-99a2d065-9f57-434c-aa00-4a846792bd69.png)
-
-![image](https://user-images.githubusercontent.com/116677175/222785264-984a2c80-b4cd-4e4a-97bf-a16200a931f7.png)
-
-![image](https://user-images.githubusercontent.com/116677175/222785321-067288f3-1747-492b-a4cc-9eea9086e3d6.png)
-
 9.5.3 Sin emplear calculadora. Realice las siguientes operaciones paso a paso, represente el resultado tanto en su forma rectangular como en su forma polar.
 
 ![image](https://user-images.githubusercontent.com/116677175/222781463-0bc54e07-5e34-468f-8e1f-a179739540c9.png)
+
+![image](https://user-images.githubusercontent.com/116677175/222786182-41cf392a-26dc-435a-856f-0dd3ea9df088.png)
+
+![image](https://user-images.githubusercontent.com/116677175/222786242-6cf1cc11-96d2-4b2b-add3-1734ae01009e.png)
+
+![image](https://user-images.githubusercontent.com/116677175/222786306-d240e7b8-c675-4318-bd09-d56401ad1031.png)
 
 9.5.4 Resuelva las operaciones anteriores por medio de la calculadora y compare
 resultados.
