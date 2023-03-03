@@ -40,6 +40,12 @@ EXPLICACIÓN DEL PROCEDIMIENTO
 
 ![image](https://user-images.githubusercontent.com/116677175/222781358-e4dd04d1-06c1-4e42-b502-b703ab92148a.png)
 
+![image](https://user-images.githubusercontent.com/116677175/222785234-99a2d065-9f57-434c-aa00-4a846792bd69.png)
+
+![image](https://user-images.githubusercontent.com/116677175/222785264-984a2c80-b4cd-4e4a-97bf-a16200a931f7.png)
+
+![image](https://user-images.githubusercontent.com/116677175/222785321-067288f3-1747-492b-a4cc-9eea9086e3d6.png)
+
 9.5.3 Sin emplear calculadora. Realice las siguientes operaciones paso a paso, represente el resultado tanto en su forma rectangular como en su forma polar.
 
 ![image](https://user-images.githubusercontent.com/116677175/222781463-0bc54e07-5e34-468f-8e1f-a179739540c9.png)
@@ -75,15 +81,21 @@ Realice las siguientes operaciones paso a paso, y represente el resultado tanto 
 
 ![image](https://user-images.githubusercontent.com/116677175/222779426-fd6e9be3-63bb-49f0-9b78-9259727f75fa.png)
 
-a) ![image](https://user-images.githubusercontent.com/116677175/222779642-45919fe7-ca81-4df5-93ac-6af569181e31.png)
+a) 
+
+![image](https://user-images.githubusercontent.com/116677175/222779642-45919fe7-ca81-4df5-93ac-6af569181e31.png)
 
 ![image](https://user-images.githubusercontent.com/116677175/222779712-61feeeed-bf20-4770-a2c7-4ee50fe5be53.png)
 
-b) ![image](https://user-images.githubusercontent.com/116677175/222779765-3d3021c4-d2b8-4905-91b1-43542bfb26bd.png)
+b) 
+
+![image](https://user-images.githubusercontent.com/116677175/222779765-3d3021c4-d2b8-4905-91b1-43542bfb26bd.png)
 
 ![image](https://user-images.githubusercontent.com/116677175/222779817-b7ae7629-2bf7-474b-9586-0a0b0bc6c055.png)
 
-c) ![image](https://user-images.githubusercontent.com/116677175/222779888-241d0771-bf12-4c9b-bd0e-ecc3b2f83b07.png)
+c) 
+
+![image](https://user-images.githubusercontent.com/116677175/222779888-241d0771-bf12-4c9b-bd0e-ecc3b2f83b07.png)
 
 ![image](https://user-images.githubusercontent.com/116677175/222779937-d4811ff9-0e9f-4d82-a119-c885bd9af195.png)
 
