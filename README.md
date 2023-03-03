@@ -40,6 +40,8 @@ EXPLICACIÓN DEL PROCEDIMIENTO
 
 ![image](https://user-images.githubusercontent.com/116677175/222781358-e4dd04d1-06c1-4e42-b502-b703ab92148a.png)
 
+![image](https://user-images.githubusercontent.com/116677175/222803297-ee15fd29-2154-4250-8b0e-a2d73697d130.png)
+
 9.5.3 Sin emplear calculadora. Realice las siguientes operaciones paso a paso, represente el resultado tanto en su forma rectangular como en su forma polar.
 
 ![image](https://user-images.githubusercontent.com/116677175/222781463-0bc54e07-5e34-468f-8e1f-a179739540c9.png)
@@ -108,6 +110,8 @@ c)
 ![image](https://user-images.githubusercontent.com/116677175/222780190-f3f945b6-4ce6-434e-8bc6-c0f9a5c4c5a3.png)
 
 5. VIDEO
+
+https://youtu.be/cIt7P2rVMqM
 
 6. CONCLUSIONES
 
